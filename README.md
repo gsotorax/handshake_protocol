@@ -1,2 +1,2 @@
-# handshake_protocol
+# Verilog challenges
  Challenging RTL Problem
